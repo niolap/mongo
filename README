@@ -50,11 +50,6 @@ BUG REPORTS
 
   See https://github.com/mongodb/mongo/wiki/Submit-Bug-Reports.
 
-PACKAGING
-
-  Packages are created dynamically by the package.py script located in the
-  buildscripts directory. This will generate RPM and Debian packages.
-
 DOCUMENTATION
 
   https://docs.mongodb.com/manual/
